@@ -1,10 +1,9 @@
-package ro.ctrln.javafx;
+package ro.ctrln.javafx.controls;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.ColorPicker;
 import javafx.scene.layout.StackPane;
-import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import ro.ctrln.javafx.shapes.ShapesUtils;
 

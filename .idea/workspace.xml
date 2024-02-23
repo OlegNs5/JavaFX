@@ -1,28 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f1c0ab7-f876-4223-a98b-148e3b456d11" name="Changes" comment="" />
+    <list default="true" id="6f1c0ab7-f876-4223-a98b-148e3b456d11" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/JavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/JavaFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/ControlsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/ControlsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXChoiceBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXChoiceBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXColorPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXColorPicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXDatePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXDatePicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXHyperlink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXHyperlink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXMenuBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXMenuBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXPieChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXPieChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXRadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/JavaFXRadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/LoadingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/LoadingCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXAccordion.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXAccordion.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXAccordion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXAccordion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXLMAccordionFXLM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/controls/accordion/JavaFXLMAccordionFXLM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/EventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/EventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/FirstJavaFXApp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/FirstJavaFXApp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/SceneBuilderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/fxml/SceneBuilderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Box3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Box3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Cylinder3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Cylinder3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/ShapesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/ShapesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Sphere3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ctrln/javafx/shapes/Sphere3D.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2bwipNRBLp1Os1oZIaXIq38EtzE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ro.ctrln.javafx.controls" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ro.ctrln.javafx.controls" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaFXPieChart">
+    <configuration name="JavaFXColorPicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ctrln.javafx.JavaFXColorPicker" />
+      <module name="JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ctrln.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXDatePicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ctrln.javafx.controls.JavaFXDatePicker" />
+      <module name="JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ctrln.javafx.controls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXPieChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ctrln.javafx.controls.JavaFXPieChart" />
+      <module name="JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ctrln.javafx.controls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ctrln.javafx.controls.JavaFXProgressBar" />
+      <module name="JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ctrln.javafx.controls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXRadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ctrln.javafx.controls.JavaFXRadioButtons" />
+      <module name="JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ctrln.javafx.controls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaFXPieChart" />
+        <item itemvalue="Application.JavaFXRadioButtons" />
+        <item itemvalue="Application.JavaFXProgressBar" />
+        <item itemvalue="Application.JavaFXDatePicker" />
+        <item itemvalue="Application.JavaFXColorPicker" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,5 +159,12 @@
       <updated>1707132726450</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
